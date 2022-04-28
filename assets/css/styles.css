@@ -31,19 +31,19 @@ img{
 h1{
     display: flex;
     align-items: center;
-    margin: 10px;
+    margin: 20px;
     font-family: 'Roboto', sans-serif;
     color: slategray;
     justify-content: space-between;
-
-
+    font-size: 40px;
 }
+
+
 
 footer {
     display: flex;
     text-align: center;
-    margin: 8px;
     color: slategray;
-  
-   
+    margin: 10px;
+    padding: 20px;
   }
