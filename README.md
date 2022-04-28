@@ -1,5 +1,6 @@
 # Mensagens-Disparada
-Criação de um disparado de mensagens para whatsApp
+Criação de um disparador de mensagens para whatsApp, utilizando importação de fontes, 
+criar efeitos de animação, tornar cards interativos.
 
 ### Tecnologias Utilizadas:
 
